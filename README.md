@@ -10,4 +10,4 @@
 `🎦` - `Quick start After Effects`<br>
 `⛔` - `Currently only works as non-built version. Im new to nodejs, but it will be fixed soon`
 # Preview
-![preview gif](https://r2.e-z.host/e98ea7f5-25b5-4b34-b6c3-16f206b094dc/3ec4u83u.gif)
+![preview gif](https://r2.e-z.host/e98ea7f5-25b5-4b34-b6c3-16f206b094dc/0c525g8m.gif)
