@@ -1,0 +1,20 @@
+{
+  "name": "aepm",
+  "version": "1.0.0",
+  "description": "After Effects Preset Importer",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "build": {
+    "icon": "src/icon.ico"
+  },
+  "author": "opiv",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^33.0.2"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.16"
+  }
+}
