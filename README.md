@@ -11,3 +11,5 @@
 `⛔` - `Currently only works as non-built version. Im new to nodejs, but it will be fixed soon`
 # Preview
 ![preview gif](https://github.com/opiv/opiv/blob/main/img/preview.gif?raw=true)
+
+`AEPM is not affiliated with Adobe and/or After Effects. This is just a non-profit project`
